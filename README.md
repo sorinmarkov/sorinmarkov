@@ -13,8 +13,9 @@
   <a href="https://www.linkedin.com/in/anderson-schmidt-66129b1b1/" target="_blank"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://api.whatsapp.com/send?phone=5561999475582" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   <a href="https://t.me/Schmidt_bsb" target="_blank"><img height="25" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  
 </div>
+
+![Snake animation](https://github.com/sorinmarkov/sorinmarkov/blob/output/github-contribuition-grid-snake.svg)
 
 <!--
 **sorinmarkov/sorinmarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
