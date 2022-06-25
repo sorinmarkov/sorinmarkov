@@ -1,4 +1,8 @@
-## Olá, Me chamo Anderson, Seja Bem vindo ao meu Perfil!
+## Olá, Me chamo Anderson, Seja Bem vindo ao meu Perfil!<br><br>
+- 🌱 Cursando Sistemas da informação
+- ⚡ Curiosidade sobre mim: _Amo desafios!_
+
+<br><br>
 
 <div>
   <a href="https://github.com/sorinmarkov"></a>
